@@ -1,13 +1,13 @@
 /*  your css code here. If applicable */
 .main{
-	background:#f6f6f6;
+	background-color:#f6f6f6;
 	display:flex;
 	justify-content:center;
 	align-items:center;
 	height:100vh;
 }
 .right{
-	background:white;
+	background-color:white;
 	display:flex;
 	flex-direction:column;
 	gap:10px;
@@ -37,7 +37,7 @@ input{
 	border-radius:5px;
 	padding:10px 20px;
 	margin-bottom:10px;
-	width:85%;
+	width:84%;
 	
 }
 a{
