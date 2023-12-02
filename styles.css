@@ -1,4 +1,9 @@
 /*  your css code here. If applicable */
+*{
+	padding:0px;
+	margin:0px;
+	font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
 .main{
 	background-color:#f6f6f6;
 	display:flex;
@@ -21,7 +26,7 @@ form{
 	
 }
 .left{
-	WIDTH:450PX;
+	WIDTH:500PX;
 	margin-top:70px;
 	display:inline-block;
 }
@@ -30,7 +35,7 @@ form{
 	border-radius:5px;
 	padding:10px 20px;
 	width:100%;
-	
+	border-color:transparent;
 	color:white;
 	
 }
@@ -55,4 +60,5 @@ a{
 	padding:10px 20px;
 	width:100%;
 	color:white;
+	border-color:transparent;
 }
